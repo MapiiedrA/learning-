@@ -1,7 +1,7 @@
 ### TUPLES ###
 
 my_tuple = tuple()  #las 2 Formas de definirlo. Lo que esta previo a Parentesis en este caso se llama constructor de clase.
-my_other_tuple = []  
+my_other_tuple = () 
 
 my_tuple = (32, 1.69, "Mauricio", "Piedra", "Mauricio")
 my_other_tuple = (32, 60, 29)
